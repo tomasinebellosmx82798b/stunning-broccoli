@@ -1,6 +1,6 @@
 (function() {
     // --- CẤU HÌNH ---
-    const ASSEMBLY_AI_KEY = "lolo"; 
+    const ASSEMBLY_AI_KEY = "c542970535b040678d4cfacaa203cb75"; 
     const WORKER_URL = "https://green-fire-6693.conwoodalluny67350w.workers.dev";
     const WORKER_AUTH = "Bearer 12345678";
 
